@@ -1,0 +1,248 @@
+﻿number;name;brand;price;numberofsim;diagonal;width;length;screentechnology;os;numberofcore;memoryGB;sensortype
+1;Xiaomi 11T 8/128GB, Meteorite Gray;Xiaomi;259990;2;6.67;2400;1080;AMOLED;Android 11;8;128;акселерометр
+2;Vivo Y53S (128GB), Deep Sea Blue;Vivo;134990;2;6.58;2408;1080;IPS;Funtouch ОS 11.1;8;128;gps
+3;Vivo Y53S (128GB), Fantastic Rainbow;Vivo;134990;2;6.58;2408;1080;IPS;Funtouch ОS 11.1;8;128;gps
+4;Samsung Galaxy Z Flip 3 (new) 128GB, beige;Samsung;549890;2;6.7;2640;1080;Dynamic AMOLED 2X;Android 11;8;128;gps
+5;Samsung Galaxy Z Flip 3 (new)128GB, green;Samsung;549890;2;6.7;2640;1080;Dynamic AMOLED 2X;Android 11;8;128;gps
+6;Samsung Galaxy Z Flip 3 (new) 128GB, black;Samsung;549890;2;6.7;2640;1080;Dynamic AMOLED 2X;Android 11;8;128;gps
+7;Samsung Galaxy Z Flip 3 (new) 256GB, beige;Samsung;579890;2;6.7;2640;1080;Dynamic AMOLED 2X;Android 11;8;256;gps
+8;Samsung Galaxy Z Flip 3 (new) 256GB, green;Samsung;579890;2;6.7;2640;1080;Dynamic AMOLED 2X;Android 11;8;256;gps
+9;Samsung Galaxy Z Flip 3 (new) 256GB, black;Samsung;579890;2;6.7;2640;1080;Dynamic AMOLED 2X;Android 11;8;256;gps
+10;BQ-6645L Element Черный Графит;BQ-6645L;58533;2;6.52;1200;540;IPS;Android 11;8;32;gps
+11;BQ-6645L Element Мятно-Розовый;BQ-6645L;59333;2;6.52;1200;540;IPS;Android 11;8;32;gps
+12;BQ-6645L Element Глубокий Зеленый;BQ-6645L;59333;2;6.52;1200;540;IPS;Android 11;8;32;gps
+13;BQ 6630L Magic L Wine Red;BQ;60000;2;6.53;1600;720;IPS;Android 10;8;32;gps
+14;Xiaomi Mi 11 Lite 5G NE 8/128GB, Peach Pink;Xiaomi;189990;2;6.55;2400;1080;AMOLED;Android 11;8;128;акселерометр
+15;Xiaomi Redmi 10 4/64GB, Pebble White;Xiaomi;89990;2;6.5;2400;1080;IPS;Android;8;64;gps
+16;BQ 6630L Magic L Deep Blue;BQ;60000;2;6.53;1600;720;IPS;Android 10;8;32;gps
+17;BQ 6022G Aura Violet;BQ;36666;2;5.99;960;480;IPS;Android;4;16;gps
+18;BQ 6022G Aura Black vibes;BQ;36666;2;5.99;960;480;IPS;Android;4;16;gps
+19;BQ 5533G Fresh Sea Wave Blue;BQ;32200;2;5.45;960;480;IPS;Android 10;4;16;gps
+20;BQ 5533G Fresh Night Blue;BQ;32200;2;5.45;960;480;IPS;Android 10;4;16;gps
+21;BQ 5533G Fresh Graphite;BQ;32200;2;5.45;960;480;IPS;Android 10;4;16;gps
+22;BQ 5031G Fun Graphite;BQ;28666;2;5.0;1280;720;IPS;Android 10;4;8;gps
+23;BQ-5016G Choice Ультрафиолет;BQ-5016G;32666;2;5.0;1280;720;IPS;Android 9.0;4;16;gps
+24;Xiaomi Mi 11 Lite 5G NE 8/128GB, Bubblegum Blue;Xiaomi;189990;2;6.55;2400;1080;AMOLED;Android 11;8;128;акселерометр
+25;Xiaomi Mi 11 Lite 5G NE 8/256GB, Bubblegum Blue;Xiaomi;209990;2;6.55;2400;1080;AMOLED;Android 11;8;128;акселерометр
+26;Xiaomi Mi 11 Lite 5G NE 8/256GB, Snowflake White;Xiaomi;209990;2;6.55;2400;1080;AMOLED;Android 11;8;128;акселерометр
+27;Xiaomi Mi 11 Lite 5G NE 8/256GB, Truffle Black;Xiaomi;209990;2;6.55;2400;1080;AMOLED;Android 11;8;128;акселерометр
+28;Xiaomi Mi 11 Lite 5G NE 8/128GB, Snowflake White;Xiaomi;189990;2;6.55;2400;1080;AMOLED;Android 11;8;128;акселерометр
+29;Xiaomi Mi 11 Lite 5G NE 8/128GB, Truffle Black;Xiaomi;189990;2;6.55;2400;1080;AMOLED;Android 11;8;128;акселерометр
+30;Xiaomi Mi 11 Lite 5G NE 6/128GB, Bubblegum Blue;Xiaomi;179990;2;6.55;2400;1080;AMOLED;Android 11;8;128;акселерометр
+31;Xiaomi Mi 11 Lite 5G NE 6/128GB, Truffle Black;Xiaomi;179990;2;6.55;2400;1080;AMOLED;Android 11;8;128;акселерометр
+32;Apple iPhone 13 256 GB Red (MLP63RK/A);Apple;579890;1;6.1;2532;1170;Super Retina XDR;iOS 15;6;256;акселерометр
+33;Xiaomi Poco X3 Pro 6/128GB, Frost Blue;Xiaomi;129990;2;6.67;2400;1080;IPS;Android 11;8;128;акселерометр
+34;Xiaomi Poco X3 Pro 8/256GB, Metal Bronze;Xiaomi;149990;2;6.67;2400;1080;IPS;Android 11;8;256;акселерометр
+35;Xiaomi Poco X3 Pro 8/256GB, Phantom Black;Xiaomi;149990;2;6.67;2400;1080;IPS;Android 11;8;256;акселерометр
+36;Samsung Galaxy S20 FE (new) Red (SM-G780GZRDSKZ);Samsung;269890;1;6.5;2400;1080;Super AMOLED;Android 10;8;128;акселерометр
+37;Samsung Galaxy S20 FE (new) Green (SM-G780GZGDSKZ);Samsung;269890;1;6.5;2400;1080;Super AMOLED;Android 10;8;128;акселерометр
+38;Samsung Galaxy S20 FE (new) Navy (SM-G780GZBDSKZ);Samsung;269890;1;6.5;2400;1080;Super AMOLED;Android 10;8;128;акселерометр
+39;Samsung Galaxy S20 FE (new) Lavender (SM-G780GLVDSKZ);Samsung;269890;1;6.5;2400;1080;Super AMOLED;Android 10;8;128;акселерометр
+40;Xiaomi Redmi 9C 128GB, Midnight Gray;Xiaomi;69990;2;6.53;1600;720;IPS;Android 10;8;128;акселерометр
+41;Apple iPhone 13 mini 256 GB Blue (MLM83RK/A);Apple;514890;1;5.4;2340;1080;Super Retina XDR;iOS 15;6;256;акселерометр
+42;Apple iPhone 13 512 GB Blue (MLPD3RK/A);Apple;709890;1;6.1;2532;1170;Super Retina XDR;iOS 15;6;512;акселерометр
+43;Apple iPhone 13 512 GB Midnight (MLP83RK/A);Apple;709890;1;6.1;2532;1170;Super Retina XDR;iOS 15;6;512;акселерометр
+44;Apple iPhone 13 256 GB Pink (MLP53RK/A);Apple;579890;1;6.1;2532;1170;Super Retina XDR;iOS 15;6;256;акселерометр
+45;OPPO Reno 6, Stellar Black;OPPO;249990;2;6.4;2400;1080;AMOLED;Собственная;8;128;акселерометр
+46;OPPO Reno 6, Aurora;OPPO;249990;2;6.4;2400;1080;AMOLED;Собственная;8;128;акселерометр
+47;Xiaomi Poco X3 Pro 6/128GB, Phantom Black;Xiaomi;129990;2;6.67;2400;1080;IPS;Собственная;8;128;акселерометр
+48;Xiaomi Poco X3 Pro 6/128GB, Metal Bronze;Xiaomi;129690;2;6.67;2400;1080;IPS;Собственная;8;128;акселерометр
+49;Xiaomi Redmi 10 4/64GB, Sea Blue;Xiaomi;89990;2;6.5;2400;1080;IPS;Android;8;64;gps
+50;Xiaomi Redmi 10 4/128GB, Pebble White;Xiaomi;99990;2;6.5;2400;1080;IPS;Android;8;128;gps
+51;Xiaomi Redmi 10 4/128GB, Sea Blue;Xiaomi;99990;2;6.5;2400;1080;IPS;Android;8;128;gps
+52;Xiaomi Redmi 10 4/64GB, Carbon Gray;Xiaomi;89990;2;6.5;2400;1080;IPS;Android;8;64;gps
+53;Xiaomi Redmi 10 4/128GB, Carbon Gray;Xiaomi;99990;2;6.5;2400;1080;IPS;Android;8;128;gps
+54;Realme C21Y (4/64), Blue;Realme;69990;2;6.5;1600;720;IPS;Android 10;8;64;gps
+55;Realme C21Y (4/64), Black;Realme;69290;2;6.5;1600;720;IPS;Android 10;8;64;gps
+56;Xiaomi Redmi 9T, 64GB (Ocean Green);Xiaomi;79990;2;6.53;2340;1080;IPS;Android;8;64;gps
+57;Xiaomi Redmi 9T, 64GB (Carbon Gray);Xiaomi;79990;2;6.53;2340;1080;IPS;Android;8;64;gps
+58;Xiaomi Redmi Note 10S 6-128GB Onyx Gray;Xiaomi;119990;2;6.43;2400;1080;AMOLED;Android 11;8;128;gps
+59;Samsung Galaxy A03s 64GB, White;Samsung;69890;2;6.5;1600;720;LCD;Android 11;8;64;gps
+60;Samsung Galaxy A03s 64GB, Blue;Samsung;69890;2;6.5;1600;720;LCD;Android 11;8;64;gps
+61;Samsung Galaxy A03s 64GB, Black;Samsung;69890;2;6.5;1600;720;LCD;Android 11;8;64;gps
+62;Samsung Galaxy A03s 32GB, White;Samsung;59890;2;6.5;1600;720;LCD;Android 11;8;32;gps
+63;Samsung Galaxy A03s 32GB, Blue;Samsung;59890;2;6.5;1600;720;LCD;Android 11;8;32;gps
+64;Samsung Galaxy A03s 32GB, Black;Samsung;59890;2;6.5;1600;720;LCD;Android 11;8;32;gps
+65;Xiaomi Redmi 9C 32GB, Twilight Blue;Xiaomi;59990;2;6.53;1600;720;IPS;Android 10;8;32;акселерометр
+66;Xiaomi Redmi 9C 32GB, Midnight Gray;Xiaomi;59990;2;6.53;1600;720;IPS;Android 10;8;32;акселерометр
+67;Samsung Galaxy A12 64GB NEW, Red;Samsung;79890;2;6.5;720;1600;TFT;Android 11;8;64;gps
+68;Samsung Galaxy A12 64GB NEW, Black;Samsung;79890;2;6.5;720;1600;TFT;Android 11;8;64;gps
+69;Samsung Galaxy A12 64GB NEW, Blue;Samsung;79890;2;6.5;720;1600;TFT;Android 11;8;64;gps
+70;Samsung Galaxy A12 NEW 32GB, Red;Samsung;69890;2;6.5;720;1600;TFT;Android 11;8;32;gps
+71;Samsung Galaxy A12 NEW 32GB, Black;Samsung;69890;2;6.5;720;1600;TFT;Android 11;8;32;gps
+72;Samsung Galaxy A12 NEW 32GB, Blue;Samsung;69890;2;6.5;720;1600;TFT;Android 11;8;32;gps
+73;Galaxy Z Fold 3 256GB, Phantom Green;Galaxy;899890;2;7.6;1768;2208;Dynamic AMOLED 2X;Android 11;8;256;gps
+74;Galaxy Z Fold 3 256GB, Phantom Black;Galaxy;899890;2;7.6;1768;2208;Dynamic AMOLED 2X;Android 11;8;256;gps
+75;Galaxy Z Fold 3 256GB, Phantom Silver;Galaxy;899890;2;7.6;1768;2208;Dynamic AMOLED 2X;Android 11;8;256;gps
+76;Galaxy Z Fold 3 512GB, Phantom Green;Galaxy;999890;2;7.6;1768;2208;Dynamic AMOLED 2X;Android 11;8;512;gps
+77;Galaxy Z Fold 3 512GB, Phantom Black;Galaxy;999890;2;7.6;1768;2208;Dynamic AMOLED 2X;Android 11;8;512;gps
+78;Galaxy Z Fold 3 512GB, Phantom Beige;Galaxy;999890;2;7.6;1768;2208;Dynamic AMOLED 2X;Android 11;8;512;gps
+79;Samsung Galaxy Z Flip 3 128GB, Green (SM-F711BZGASKZ);Samsung;549890;2;6.7;2640;1080;Dynamic AMOLED 2X;Android 11;8;128;gps
+80;Samsung Galaxy Z Flip 3 128GB, Black (SM-F711BZKASKZ);Samsung;549890;2;6.7;2640;1080;Dynamic AMOLED 2X;Android 11;8;128;gps
+81;Samsung Galaxy Z Flip 3 256GB, Black (SM-F711BZKESKZ);Samsung;579890;2;6.7;2640;1080;Dynamic AMOLED 2X;Android 11;8;256;gps
+82;Samsung Galaxy A22, 128Гб, белый (SM-A225FZWGSKZ);Samsung;109890;2;6.4;1600;720;Super AMOLED;Android;8;128;gps
+83;Samsung Galaxy A22, 128Гб, мятный (SM-A225FLGGSKZ);Samsung;109890;2;6.4;1600;720;Super AMOLED;Android;8;128;gps
+84;Samsung Galaxy A22, 64Гб, мятный (SM-A225FLGDSKZ);Samsung;99890;2;6.4;1600;720;Super AMOLED;Android;8;64;gps
+85;Samsung Galaxy A22 64GB Black (SM-A225FZKDSKZ);Samsung;99890;2;6.4;720;1600;Super AMOLED;Android;8;64;gps
+86;Samsung Galaxy A22 128GB, черный (SM-A225FZKGSKZ);Samsung;109890;2;6.4;720;1600;Super AMOLED;Android;8;128;gps
+87;Samsung Galaxy A22 64GB White (SM-A225FZWDSKZ);Samsung;99890;2;6.4;720;1600;Super AMOLED;Android;8;64;gps
+88;Xiaomi Redmi Note 10S 6-128GB, Pebble White;Xiaomi;119990;2;6.43;2400;1080;AMOLED;Android;8;128;gps
+89;Xiaomi Redmi Note 10S 6-64GB, Pebble White;Xiaomi;109990;2;6.43;2400;1080;AMOLED;Android;8;64;gps
+90;BQ 6631G Surf черный;BQ;40625;2;6.53;720;1560;IPS;Android 10;4;16;gps
+91;BQ 6630L Magic L, черный;BQ;60000;2;6.53;720;1600;IPS;Android 10;8;32;gps
+92;Vivo Y31 64GB, Racing Black;Vivo;99990;2;6.58;2400;1080;IPS;Android 10;8;64;акселерометр
+93;Vivo Y31 64GB, Ocean Blue;Vivo;99990;2;6.58;2400;1080;IPS;Android 10;8;64;акселерометр
+94;Xiaomi Poco M3 Pro 4/64GB, Power Black;Xiaomi;99990;2;6.5;2400;1080;IPS-LCD;Android;8;64;gps
+95;Xiaomi Poco X3 Pro 8/256GB, Frost Blue;Xiaomi;149990;2;6.67;2400;1080;IPS;Android 11;8;256;акселерометр
+96;Xiaomi Mi 11 8/256GB, Horizon Blue;Xiaomi;399990;2;6.81;3200;1440;AMOLED;Android 11;8;256;гироскоп
+97;Vivo V21, Sunset Dazzle;Vivo;179990;2;6.44;2404;1080;AMOLED;Android 11;8;128;акселерометр
+98;Vivo V21, Dusk Blue;Vivo;179990;2;6.44;2404;1080;AMOLED;Android 11;8;128;акселерометр
+99;Vivo V21E, Diamond Flare;Vivo;149990;2;6.44;2400;1080;AMOLED;Android 11;8;128;акселерометр
+100;Vivo V21E, Roman Black;Vivo;149990;2;6.44;2400;1080;AMOLED;Android 11;8;128;акселерометр
+101;Nokia C20 DS LTE 32 GB, Blue;Nokia;47990;2;6.5;2400;1080;AMOLED;Android 11;8;32;gps
+102;Nokia G20 DS LTE 64GB, Blue;Nokia;84990;2;6.5;1600;720;AMOLED;Android 11;8;64;акселерометр
+103;Nokia 1.4 DS LTE, Blue;Nokia;49990;2;6.5;720;1600;AMOLED;Android Q Go;8;32;акселерометр
+104;Xiaomi Redmi Note 10s 6-128GB, Ocean Blue;Xiaomi;119990;2;6.43;2400;1080;AMOLED;Android 11;8;128;gps
+105;Xiaomi Redmi Note 10s 6-64GB, Ocean Blue;Xiaomi;109990;2;6.43;2400;1080;AMOLED;Android 11;8;64;gps
+106;Xiaomi Redmi Note 10s 6-64GB, Onyx Gray;Xiaomi;109990;2;6.43;2400;1080;AMOLED;Android 11;8;64;gps
+107;OPPO A54 64GB, Black;OPPO;109990;2;6.51;1600;720;LCD;Android 11;8;64;gps
+108;OPPO A54 64 GB, Blue;OPPO;109990;2;6.51;1600;720;LCD;Android 11;8;64;gps
+109;Oppo A74 4/128, Prism Black;Oppo;139990;2;6.43;1080;2400;AMOLED;Android 11;8;128;gps
+110;Oppo A74 4/128, Midnight Blue;Oppo;139990;2;6.43;1080;2400;AMOLED;Android 11;8;128;gps
+111;Nokia 2.4 DS LTE, Blue;Nokia;54990;2;6.5;1600;720;AMOLED;Android 10;8;32;акселерометр
+112;Vivo X60 Pro, Blue;Vivo;369990;2;6.56;2376;1080;AMOLED;Android 11;8;256;gps
+113;OPPO Reno 5, Starry Black;OPPO;199990;2;6.43;2400;1080;AMOLED;Android 11;8;128;акселерометр
+114;OPPO Reno 5, Fantasy Silver;OPPO;199990;2;6.43;2400;1080;AMOLED;Android 11;8;128;акселерометр
+115;OPPO Reno 5 Lite, Fluid Black;OPPO;159990;2;6.43;2400;1080;AMOLED;Android 11;8;128;акселерометр
+116;OPPO Reno 5 Lite, Fantastic Purple;OPPO;159990;2;6.43;2400;1080;AMOLED;Android 11;8;128;акселерометр
+117;Xiaomi Redmi Note 10 4/128GB White;Xiaomi;109990;2;6.4;2400;1080;AMOLED;Android 11;8;128;акселерометр
+118;Xiaomi Redmi Note 10 64GB, Pebble White;Xiaomi;89990;2;6.43;2400;1080;Super AMOLED;Android;8;64;акселерометр
+119;Samsung Galaxy A72 256Gb, White (SM-A725FZWHSKZ);Samsung;209890;2;6.7;2400;1080;Super AMOLED;Android 11;8;256;Face ID
+120;Samsung Galaxy A72 256Gb, Blue (SM-A725FZBHSKZ);Samsung;209890;2;6.7;2400;1080;Super AMOLED;Android 11;8;256;Face ID
+121;Samsung Galaxy A72 256Gb, Black (SM-A725FZKHSKZ);Samsung;209890;2;6.7;2400;1080;Super AMOLED;Android 11;8;256;Face ID
+122;Samsung Galaxy A72 6/128Gb, White (SM-A725FZWDSKZ);Samsung;189890;2;6.7;2400;1080;Super AMOLED;Android 11;8;128;Face ID
+123;Samsung Galaxy A72 128Gb, Lavende (SM-A725FLVDSKZ);Samsung;189890;2;6.7;2400;1080;Super AMOLED;Android 11;8;128;Face ID
+124;Samsung Galaxy A72 128Gb, Blue (SM-A725FZBDSKZ);Samsung;189890;2;6.7;2400;1080;Super AMOLED;Android 11;8;128;Face ID
+125;Samsung Galaxy A72 128Gb, Black (SM-A725FZKDSKZ);Samsung;189890;2;6.7;2400;1080;Super AMOLED;Android 11;8;128;Face ID
+126;Samsung Galaxy A52 256Gb, White (SM-A525FZWISKZ);Samsung;179890;2;6.5;2400;1080;Super AMOLED;Android 11;8;256;акселерометр
+127;Samsung Galaxy A52 256Gb, Lavender (SM-A525FLVISKZ);Samsung;179890;2;6.5;2400;1080;Super AMOLED;Android 11;8;256; акселерометр
+128;Samsung Galaxy A52 256Gb, Blue (SM-A525FZBISKZ);Samsung;179890;2;6.5;2400;1080;Super AMOLED;Android 11;8;256;акселерометр
+129;Samsung Galaxy A52 256Gb, Black (SM-A525FZKISKZ);Samsung;179890;2;6.5;2400;1080;Super AMOLED;Android 11;8;256;акселерометр
+130;Samsung Galaxy A52 128Gb, White (SM-A525FZWDSKZ);Samsung;159890;2;6.5;2400;1080;Super AMOLED;Android 11;8;128;акселерометр
+131;Samsung Galaxy A52 128Gb, Lavender (SM-A525FLVDSKZ);Samsung;159890;2;6.5;2400;1080;Super AMOLED;Android 11;8;128;акселерометр
+132;Samsung Galaxy A52 128Gb, Blue (SM-A525FZBDSKZ);Samsung;159890;2;6.5;2400;1080;Super AMOLED;Android 11;8;128;акселерометр
+133;Samsung Galaxy A52 128Gb, Black (SM-A525FZKDSKZ);Samsung;159890;2;6.5;2400;1080;Super AMOLED;Android 11;8;128;акселерометр
+134;Samsung Galaxy A32 64Gb, Lavender(SM-A325FLVDSKZ);Samsung;119890;2;6.4;2400;1080;Super AMOLED;Android 11;8;64;акселерометр
+135;Samsung Galaxy A32 64Gb, Blue(SM-A325FZBDSKZ);Samsung;119890;2;6.4;2400;1080;Super AMOLED;Android 11;8;64;акселерометр
+136;Samsung Galaxy A32 64Gb, Black(SM-A325FZKDSKZ);Samsung;119890;2;6.4;2400;1080;Super AMOLED;Android 11;8;64;акселерометр
+137;Samsung Galaxy A32 64Gb, White(SM-A325FZWDSKZ);Samsung;119890;2;6.4;2400;1080;Super AMOLED;Android 11;8;64;акселерометр
+138;Samsung Galaxy A32 128Gb, Lavender(SM-A325FLVGSKZ);Samsung;129890;2;6.4;2400;1080;Super AMOLED;Android 11;8;128;акселерометр
+139;Samsung Galaxy A32 128Gb, Blue(SM-A325FZBGSKZ);Samsung;129890;2;6.4;2400;1080;Super AMOLED;Android 11;8;128;акселерометр
+140;Samsung Galaxy A32 128Gb, Black(SM-A325FZKGSKZ);Samsung;129890;2;6.4;2400;1080;Super AMOLED;Android 11;8;128;акселерометр
+141;Samsung Galaxy A32 128Gb, White(SM-A325FZWGSKZ);Samsung;129890;2;6.4;2400;1080;Super AMOLED;Android 11;8;128;акселерометр
+142;Nokia 2.4 DS LTE Grey;Nokia;54990;2;6.5;2400;1080;Super AMOLED;Android;8;32;акселерометр
+143;X-AGE G1, Black;X-AGE;39990;2;6.18;1440;720;HD IPS;Android 8.1;4;32;освещения
+144;X-AGE G1 Lite Black;X-AGE;29990;2;5.5;1280;720;HD IPS;Android 8.1;4;16;освещения
+145;Samsung Galaxy A02, Black (SM-A022GZKBSKZ);Samsung;54890;2;6.5;1600;720;TFT LCD;Android;4;32;акселерометр
+146;Apple iPhone XR SLIM BOX 128GB, Black;Apple;299990;1;6.1;1792;828;IPS;iOS 14;6;128;акселерометр
+147;Apple iPhone XR SLIM BOX 64GB, Black;Apple;269890;1;6.1;1792;828;IPS;iOS 14;6;64;акселерометр
+148;Xiaomi Poco M3 64GB , Power Black;Xiaomi;69990;2;6.53;2340;1080;IPS;Android 10;8;64;акселерометр
+149;Xiaomi Redmi 9T 128GB, Ocean Green;Xiaomi;89990;2;6.53;2340;1080;IPS;Android 10;8;128;отпечатков пальцев
+150;Xiaomi Redmi 9T, Twilight Blue;Xiaomi;89990;2;6.53;2340;1080;IPS;Android 10;8;128;отпечатков пальцев
+151;Xiaomi Redmi 9T, Carbon Gray;Xiaomi;89990;2;6.53;2340;1080;IPS;Android 10;8;128;отпечатков пальцев
+152;Samsung Galaxy S21 Ultra 256Gb, Black (SM-G998BZKGSKZ);Samsung;666533;2;6.8;1080;2400;Dynamic AMOLED 2X;Android 11;8;256;акселерометр
+153;OPPO A15s, Mystery Blue;OPPO;84990;2;6.52;1600;720;IPS;Android 10;8;64;Face ID
+154;OPPO A15s, Dynamic Black;OPPO;84990;2;6.52;1600;720;IPS;Android 10;8;64;Face ID
+155;Vivo Y31 4/128Gb, Racing Black;Vivo;109990;2;6.58;2400;1080;IPS;Android 10;8;128;акселерометр
+156;Vivo Y31 4/128Gb, Ocean Blue;Vivo;109990;2;6.58;2400;1080;IPS;Android 10;8;128;акселерометр
+157;BQ-5016G Choice, Черный Графит;BQ-5016G;32666;2;5.0;1280;720;IPS;Android 9.0;4;16;gps
+158;BQ-5016G Choice, Темно-Синий;BQ-5016G;32666;2;5.0;1280;720;IPS;Android 9.0;4;16;gps
+159;BQ-5016G Choice, Винный Красный;BQ-5016G;32666;2;5.0;1280;720;IPS;Android 9.0;4;16;gps
+160;Vivo Y20 Nebula Blue (2027);Vivo;79990;2;6.51;1600;720;IPS;Android;8;64;акселерометр
+161;Vivo Y20 Obsidian Black (2027);Vivo;79990;2;6.51;1600;720;IPS;Android;8;64;акселерометр
+162;BQ-5740G Spring, синий;BQ-5740G;31600;2;5.7;960;480;IPS;Android 10;4;16;акселерометр
+163;BQ-5740G Spring, Чёрный;BQ-5740G;31600;2;5.7;960;480;IPS;Android 10;4;16;акселерометр
+164;BQ-5519G Jeans, Темно-Зеленый;BQ-5519G;24990;2;5.45;960;480;IPS;Android 9.0;4;16;Face ID
+165;Realme 7i 4/128GB RMX2103, blue;Realme;89090;2;6.5;1600;720;IPS;Android 10;8;128;Face ID
+166;Realme 7i 4/128GB RMX2103, green;Realme;89090;2;6.5;1600;720;IPS;Android 10;8;128;Face ID
+167;Vivo V20, Sunset Melody (V2025);Vivo;119090;2;6.44;2400;1080;AMOLED;Android;8;128;гироскоп
+168;Vivo V20, Midnight Jazz (V2025);Vivo;139912;2;6.44;2400;1080;AMOLED;Android;8;128;гироскоп
+169;Vivo V20SE, Oxygen Blue;Vivo;87590;2;6.44;2400;1080;AMOLED;Android 10;8;128;Face ID
+170;Vivo V20SE, Gravity Black;Vivo;87590;2;6.44;2400;1080;AMOLED;Android 10;8;128;Face ID
+171;Vivo Y12S, Nebula Blue;Vivo;69990;2;6.51;1600;720;IPS;Android 10;8;32;Face ID
+172;Vivo Y12S, Phantom Black;Vivo;69990;2;6.51;1600;720;IPS;Android 10;8;32;Face ID
+173;Vivo Y1S, Ripple Blue;Vivo;59990;2;6.22;1520;720;TFT (TN);Android 10;8;32;Face ID
+174;Vivo Y1S, Olive Black;Vivo;59990;2;6.22;1520;720;TFT (TN);Android 10;8;32;Face ID
+175;OPPO Reno 4 Pro, Galactic Blue;OPPO;249990;2;6.5;2400;1080;AMOLED;Android 10;8;256;акселерометр
+176;OPPO Reno 4 Pro, Starry Night;OPPO;249990;2;6.5;2400;1080;AMOLED;Android 10;8;256;акселерометр
+177;OPPO Reno 4 Lite, Metallic White;OPPO;139990;2;6.4;2400;1080;AMOLED;Android 10;8;128;акселерометр
+178;OPPO Reno 4 Lite, Magic Blue;OPPO;139990;2;6.4;2400;1080;AMOLED;Android 10;8;128;акселерометр
+179;OPPO Reno 4 Lite, Matte Black;OPPO;139990;2;6.4;2400;1080;AMOLED;Android 10;8;128;акселерометр
+180;Samsung Galaxy A12 4/64GB, Red (SM-A125FZRVSKZ);Samsung;79890;2;6.5;1600;720;TFT LCD;Android;8;64;акселерометр
+181;Samsung Galaxy A12 4/64GB, Black (SM-A125FZKVSKZ);Samsung;79890;2;6.5;1600;720;TFT LCD;Android;8;64;акселерометр
+182;Samsung Galaxy A12 4/64GB, Blue (SM-A125FZBVSKZ);Samsung;79890;2;6.5;1600;720;TFT LCD;Android;8;64;акселерометр
+183;Samsung Galaxy A12 3/32GB, Red (SM-A125FZRUSKZ);Samsung;64890;2;6.5;1600;720;TFT LCD;Android;8;32;акселерометр
+184;Samsung Galaxy A12 3/32GB, Black (SM-A125FZKUSKZ);Samsung;64890;2;6.5;1600;720;TFT LCD;Android;8;32;акселерометр
+185;Samsung Galaxy A12 3/32GB, Blue (SM-A125FZBUSKZ);Samsung;64890;2;6.5;1600;720;TFT LCD;Android;8;32;акселерометр
+186;Samsung Galaxy A02s 3/32GB, White (SM-A025FZWESKZ);Samsung;54190;2;6.5;1600;720;TFT LCD;Android;8;32;акселерометр
+187;Samsung Galaxy A02s 3/32GB, Black (SM-A025FZKESKZ);Samsung;54690;2;6.5;1600;720;TFT LCD;Android;8;32;акселерометр
+188;Samsung Galaxy A02s 3/32GB, Blue (SM-A025FZBESKZ);Samsung;54590;2;6.5;1600;720;TFT LCD;Android;8;32;акселерометр
+189;Apple iPhone 12 Pro 256GB Silver;Apple;649990;1;6.1;2532;1170;OLED;iOS 14;6;256;Face ID
+190;Apple iPhone 12 Pro 256GB Graphite;Apple;649990;1;6.1;2532;1170;OLED;iOS 14;6;256;Face ID
+191;Apple iPhone 12 128GB Green;Apple;454990;1;6.1;2532;1170;OLED;iOS 14;6;128;Face ID
+192;Apple iPhone 12 128GB White;Apple;454990;1;6.1;2532;1170;OLED;iOS 14;6;128;Face ID
+193;Apple iPhone 12 64GB, Blue;Apple;424990;1;6.1;2532;1170;OLED;iOS 14;6;64;Face ID
+194;Apple iPhone 12 64GB, Black;Apple;424990;1;6.1;2532;1170;OLED;iOS 14;6;64;Face ID
+195;Xiaomi Redmi 9A 32GB, Granite Gray;Xiaomi;54990;2;6.53;1600;720;IPS;Android 10;8;32;акселерометр
+196;Xiaomi Redmi 9C 64GB, Sunrise Orange;Xiaomi;64990;2;6.53;1600;720;IPS;Android 10;8;64;акселерометр
+197;OPPO A53 128GB, Fancy Blue;OPPO;109999;2;6.5;1600;720;IPS;Android 10;8;128;акселерометр
+198;OPPO A53 128GB, Electric Black;OPPO;109999;2;6.5;1600;720;IPS;Android 10;8;128;акселерометр
+199;OPPO A53 64GB, Fancy Blue;OPPO;99990;2;6.5;1600;720;IPS;Android 10;8;64;акселерометр
+200;OPPO A53 64GB, Mint Cream;OPPO;99990;2;6.5;1600;720;IPS;Android 10;8;64;акселерометр
+201;OPPO A53 64GB, Electric Black;OPPO;99990;2;6.5;1600;720;IPS;Android 10;8;64;акселерометр
+202;Realme 6 Pro (8/128), Red;Realme;139890;2;6.6;2400;1080;IPS;Android;8;128;гироскоп
+203;BQ-6042L Magic E Ultra Violet;BQ-6042L;45333;2;6.09;1280;600;IPS;Android 9.0;8;32;gps
+204;BQ-6042L Magic E Black;BQ-6042L;45333;2;6.09;1280;600;IPS;Android 9.0;8;32;gps
+205;Xiaomi Redmi 9C 64GB, Midnight Gray;Xiaomi;64990;2;6.53;1600;720;IPS;Android 10;8;64;gps
+206;Xiaomi Redmi 9 32GB Ocean Green;Xiaomi;64990;2;6.53;2340;1080;IPS;Android;8;32;акселерометр
+207;Xiaomi Redmi 9C 64GB, Twilight Blue;Xiaomi;64990;2;6.53;1600;720;IPS;Android 10;8;64;акселерометр
+208;Xiaomi Redmi 9A 32GB, Peacock Green;Xiaomi;54990;2;6.53;1600;720;IPS;Android 10;8;32;акселерометр
+209;Xiaomi Redmi 9A 32GB, Sky Blue;Xiaomi;54990;2;6.53;1600;720;IPS;Android 10;8;32;акселерометр
+210;Samsung Galaxy A51 6/128GB, Silver;Samsung;149890;2;6.5;2400;1080;Super AMOLED;Android 9.0;8;128;gps
+211;Samsung Galaxy A51 64GB, Silver;Samsung;0;2;6.5;2400;1080;Super AMOLED;Android 9.0;8;64;акселерометр
+212;Samsung Galaxy S20 FE, Red;Samsung;269890;2;6.5;2400;1080;Super AMOLED;Android 10;8;128;Face ID
+213;Samsung Galaxy S20 FE, Lavender;Samsung;269890;2;6.5;2400;1080;Super AMOLED;Android 10;8;128;Face ID
+214;Realme X3 Super Zoom 8/128Gb (White);Realme;203390;2;6.6;2400;1080;IPS;Android 10;8;128;акселерометр
+215;Vivo Y30, Emerald Black;Vivo;71990;2;6.47;1560;720;LCD;Android 10;8;64;акселерометр
+216;Apple iPhone SE 2020 128Gb Slim Box, Red;Apple;259790;1;4.7;1334;750;IPS;iOS;6;128;gps
+217;Apple iPhone SE 2020 128Gb Slim Box, White;Apple;259890;1;4.7;1334;750;IPS;iOS;6;128;gps
+218;Apple iPhone SE 2020 128Gb Slim Box, Black;Apple;259790;1;4.7;1334;750;IPS;iOS;6;128;gps
+219;Apple iPhone SE 2020 64Gb Slim Box, White;Apple;229790;1;4.7;1334;750;IPS;iOS;6;64;gps
+220;Apple iPhone SE 2020 64Gb Slim Box, Red;Apple;229790;1;4.7;1334;750;IPS;iOS;6;64;акселерометр
+221;Apple iPhone SE 2020 64Gb Slim Box, Black;Apple;229990;1;4.7;1334;750;IPS;iOS;6;64;gps
+222;Realme 6 4/128Gb, White;Realme;90290;2;6.5;2400;1080;IPS;Android 10;8;128;акселерометр
+223;Realme 6 4/128Gb, Blue;Realme;99990;2;6.5;2400;1080;IPS;Android 10;8;128;акселерометр
+224;OPPO A91, Lightening Black;OPPO;139999;2;6.4;2400;1080;AMOLED;Android 9.0;8;128;gps
+225;Samsung Galaxy A41, White;Samsung;119890;2;6.1;2400;1080;Super AMOLED;Android;8;64;акселерометр
+226;Samsung Galaxy A41, Black;Samsung;0;2;6.1;2400;1080;Super AMOLED;Android 10;8;64;акселерометр
+227;Samsung Galaxy A41, Blue;Samsung;0;2;6.1;2400;1080;Super AMOLED;Android 10;8;64;акселерометр
+228;Samsung Galaxy A31, White;Samsung;109890;2;6.4;2400;1080;Super AMOLED;Android;8;64;акселерометр
+229;Samsung Galaxy A31, Black;Samsung;109890;2;6.4;2400;1080;Super AMOLED;Android 10;8;64;Face ID
+230;Samsung Galaxy A31, Blue;Samsung;109890;2;6.4;2400;1080;Super AMOLED;Android 10;8;64;Face ID
+231;Samsung Galaxy A21s, White;Samsung;89890;2;6.5;2400;1080;TFT (TN);Android 10;8;32;Face ID
+232;Samsung Galaxy A21s, Red;Samsung;74990;2;6.5;2400;1080;TFT (TN);Android 10;8;32;Face ID
+233;Samsung Galaxy A21s, Black;Samsung;89890;2;6.5;2400;1080;TFT (TN);Android 10;8;32;Face ID
+234;Samsung Galaxy A11, White;Samsung;59890;2;6.4;1560;720;TFT (TN);Android;8;32;gps
+235;Samsung Galaxy A11, Red;Samsung;59890;2;6.4;1560;720;TFT (TN);Android;8;32;gps
+236;Samsung Galaxy S20 plus, Black;Samsung;319890;2;6.7;3200;1440;Dynamic AMOLED;Android 10;8;128;акселерометр
+237;Samsung Galaxy S20 plus, Gray;Samsung;319890;2;6.7;3200;1440;Dynamic AMOLED;Android 10;8;128;акселерометр
+238;Samsung Galaxy S20, Red;Samsung;299890;2;6.2;3200;1440;Dynamic AMOLED;Android 10;8;128;акселерометр
+239;Samsung Galaxy S20, Blue;Samsung;299890;2;6.2;3200;1440;Dynamic AMOLED;Android 10;8;128;акселерометр
+240;Samsung Galaxy A51 128GB White, (SM-A515FZWWSKZ);Samsung;149890;2;6.5;1080;2400;Super AMOLED;Android;8;128;gps
+241;Samsung Galaxy A71 Black;Samsung;189890;2;6.7;2400;1080;Super AMOLED;Android;8;128;акселерометр
+242;Samsung Galaxy A71 Silver;Samsung;189890;2;6.7;2400;1080;Super AMOLED;Android;8;128;акселерометр
+243;Samsung Galaxy A51 128GB, Black (SM-A515FZKWSKZ);Samsung;149890;2;6.5;2400;1080;Super AMOLED;Android;8;128;gps
+244;Samsung Galaxy A51 128GB, Blue (SM-A515FZBWSKZ);Samsung;149890;2;6.5;2400;1080;Super AMOLED;Android;8;128;gps
+245;Samsung Galaxy A51 64GB, White (SM-A515FZWUSKZ);Samsung;129890;2;6.5;2400;1080;Super AMOLED;Android;8;64;gps
+246;Samsung Galaxy A51 64GB, Black (SM-A515FZKUSKZ);Samsung;0;2;6.5;2400;1080;Super AMOLED;Android;8;64;gps
+247;Samsung Galaxy A51 64GB, Blue (SM-A515FZBUSKZ);Samsung;0;2;6.5;2400;1080;Super AMOLED;Android;8;64;gps
